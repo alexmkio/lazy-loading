@@ -1,4 +1,4 @@
-# Redux and Firebase Practice
+# Lazy Loading Practice
 
 This particular repo handles "Route to a page that is lazy loaded using code splitting" in the Rightpoint FED Assessment for React. It's deployed [here](https://alexmkio.github.io/lazy-loading/).
 
