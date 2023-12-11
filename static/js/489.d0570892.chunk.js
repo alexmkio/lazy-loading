@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklazy_loading=self.webpackChunklazy_loading||[]).push([[489],{489:(e,n,r)=>{r.r(n),r.d(n,{default:()=>d});var l=r(87),a=r(184);function d(){return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)("h1",{children:"Loaded!!!"}),(0,a.jsx)(l.rU,{to:"/",children:(0,a.jsx)("h2",{children:"Link to root route"})})]})}}}]);
+//# sourceMappingURL=489.d0570892.chunk.js.map

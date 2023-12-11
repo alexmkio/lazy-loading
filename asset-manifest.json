@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.js": "/lazy-loading/static/js/main.757e32d1.js",
+    "main.js": "/lazy-loading/static/js/main.9ae15b68.js",
+    "static/js/489.d0570892.chunk.js": "/lazy-loading/static/js/489.d0570892.chunk.js",
     "index.html": "/lazy-loading/index.html",
-    "main.757e32d1.js.map": "/lazy-loading/static/js/main.757e32d1.js.map"
+    "main.9ae15b68.js.map": "/lazy-loading/static/js/main.9ae15b68.js.map",
+    "489.d0570892.chunk.js.map": "/lazy-loading/static/js/489.d0570892.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.757e32d1.js"
+    "static/js/main.9ae15b68.js"
   ]
 }
